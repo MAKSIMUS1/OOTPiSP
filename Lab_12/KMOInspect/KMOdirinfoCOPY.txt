@@ -1,0 +1,19 @@
+Подкаталоги
+D:\$RECYCLE.BIN
+D:\BSTU
+D:\Config.Msi
+D:\coursework_KYR
+D:\distr
+D:\maksim
+D:\MSOCache
+D:\Ruby
+D:\System Volume Information
+D:\test
+D:\Visual Code
+D:\Windows
+D:\БГТУ Лабы, лекции и тд
+D:\Шрифты
+
+Файлы:
+D:\DumpStack.log.tmp
+D:\for_12_oop.txt

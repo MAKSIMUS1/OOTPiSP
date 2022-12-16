@@ -1,0 +1,52 @@
+Lab_11_OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Lab_11_OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Lab_11_OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+public Student(String name, String companypublic House(public House(Int32 y, Double a, Int32 b, String strpublic House(Int32 apartmNumber, Double area, Int32 floor, Int32 numberOfRooms, String street, String typeOfBuilding, Int32 serviceLifeprivate House(Int32 binternal ExamException(String message, Int32 valpublic Exception(public Exception(String messagepublic Exception(String message, Exception innerExceptionprotected Exception(SerializationInfo info, StreamingContext contextInt32 get_ApartmNumber()
+Void set_ApartmNumber(Int32)
+Double get_Area()
+Void set_Area(Double)
+Int32 get_Floor()
+Void set_Floor(Int32)
+Int32 get_NumberOfRooms()
+Void set_NumberOfRooms(Int32)
+System.String get_Street()
+Void set_Street(System.String)
+System.String get_TypeOfBuilding()
+Void set_TypeOfBuilding(System.String)
+Int32 get_ServiceLife()
+Void set_ServiceLife(Int32)
+Void showInfo(Lab_11_OOP.House)
+Void forTestRefl(System.String, Int32)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Поля:
+private Int32 id
+private Int32 apartmNumber
+private Double area
+private Int32 floor
+private Int32 numberOfRooms
+private String street
+private String typeOfBuilding
+private Int32 serviceLife
+private static Int32 numberOfObjects
+private static Int32 standartServiceLife
+Свойства:
+System.Int32 ApartmNumber {get;set;}
+System.Double Area {get;set;}
+System.Int32 Floor {get;set;}
+System.Int32 NumberOfRooms {get;set;}
+System.String Street {get;set;}
+System.String TypeOfBuilding {get;set;}
+System.Int32 ServiceLife {get;set;}
+IEater
+IMovable
+Void set_ApartmNumber (Int32  value)
+Void set_Floor (Int32  value)
+Void set_NumberOfRooms (Int32  value)
+Void set_ServiceLife (Int32  value)
+Void forTestRefl (String  ok, Int32  ladno)

@@ -1,0 +1,92 @@
+31.10.2022 18:29:57
+|-------DiskInfo-------|
+Название: C:\
+Тип: Fixed
+Объем диска: 179066368000
+Свободное пространство: 64010653696
+Метка диска: Windows
+Файловой системе : NTFS
+Название: D:\
+Тип: Fixed
+Объем диска: 332193067008
+Свободное пространство: 148718313472
+Метка диска: Новый том
+Файловой системе : NTFS
+Название: E:\
+Тип: CDRom
+|-------FileInfo-------|
+Полный путь: D:\for_12_oop.txt
+Имя файла: for_12_oop
+Время создания: 25.10.2022 15:27:19
+Размер: 29
+Расширение: .txt
+Полный путь 2: D:\
+Полный путь 3: D:\
+|-------FileInfo-------|
+Полный путь: D:\BSTU\Kurs_2_1\OOP(C#)\Lab_11\testdrive.txt
+Имя файла: testdrive
+Время создания: 23.10.2022 22:11:00
+Размер: 2285
+Расширение: .txt
+Полный путь 2: D:\BSTU\Kurs_2_1\OOP(C#)\Lab_11
+Полный путь 3: D:\BSTU\Kurs_2_1\OOP(C#)\Lab_11
+|-------DirInfo-------|
+Подкаталоги:
+C:\Program Files\AMD
+C:\Program Files\Application Verifier
+C:\Program Files\Classic Shell
+C:\Program Files\Common Files
+C:\Program Files\dotnet
+C:\Program Files\Far Manager
+C:\Program Files\HP
+C:\Program Files\HPCommRecovery
+C:\Program Files\IIS
+C:\Program Files\IIS Express
+C:\Program Files\Internet Explorer
+C:\Program Files\Java
+C:\Program Files\Microsoft Analysis Services
+C:\Program Files\Microsoft SQL Server
+C:\Program Files\Microsoft SQL Server Compact Edition
+C:\Program Files\Microsoft Synchronization Services
+C:\Program Files\Microsoft Update Health Tools
+C:\Program Files\Microsoft Visual Studio
+C:\Program Files\ModifiableWindowsApps
+C:\Program Files\MyOffice Standard. Home Edition
+C:\Program Files\NVIDIA Corporation
+C:\Program Files\Online Services
+C:\Program Files\PCHealthCheck
+C:\Program Files\Soundpad
+C:\Program Files\Uninstall Information
+C:\Program Files\Windows Defender
+C:\Program Files\Windows Mail
+C:\Program Files\Windows Media Player
+C:\Program Files\Windows Multimedia Platform
+C:\Program Files\Windows NT
+C:\Program Files\Windows Photo Viewer
+C:\Program Files\Windows Portable Devices
+C:\Program Files\Windows Security
+C:\Program Files\Windows Sidebar
+C:\Program Files\WindowsApps
+C:\Program Files\WindowsPowerShell
+Количество поддиректориев: 36
+
+
+Файлы:
+C:\Program Files\desktop.ini
+Количество файлов: 1
+Дата создания директория: 07.12.2019 12:14:52
+Родительский каталог: C:\
+|-------DirInfo-------|
+Подкаталоги:
+D:\BSTU\Kurs_2_1\OOP(C#)\Lab_12\dirWithExtensions
+D:\BSTU\Kurs_2_1\OOP(C#)\Lab_12\KMOFiles
+D:\BSTU\Kurs_2_1\OOP(C#)\Lab_12\KMOInspect
+D:\BSTU\Kurs_2_1\OOP(C#)\Lab_12\Lab_12_OOP
+Количество поддиректориев: 4
+
+
+Файлы:
+D:\BSTU\Kurs_2_1\OOP(C#)\Lab_12\KMOlogfile.txt
+Количество файлов: 1
+Дата создания директория: 26.09.2022 20:42:58
+Родительский каталог: D:\BSTU\Kurs_2_1\OOP(C#)

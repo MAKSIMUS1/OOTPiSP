@@ -1,0 +1,78 @@
+-----Протокол----- 
+Выполнено: 03.10.2022 15:36:05
+|----------------------------------------------------|
+Исключение: Оценка должна быть от 0 до 10
+Source: Lab_4-6_NET
+Метод: Void set_Grade(Int32)
+Трассировка стека:    at Lab_4_NET.Exam.set_Grade(Int32 value) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Exam.cs:line 19
+   at Lab_4_NET.Exam..ctor(String goal, Int32 number, String predmet) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Exam.cs:line 35
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 106
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Вызвано исключение: попытка присовить значение null.
+Source: Lab_4-6_NET
+Метод: Void set_QuestionName(System.String)
+Трассировка стека:    at Lab_4_NET.Question.set_QuestionName(String value) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Question.cs:line 19
+   at Lab_4_NET.Question..ctor(String goal, String str1, String str2, Int32 number) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Question.cs:line 41
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 117
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Вызвано исключение: попытка присовить значение null.
+Source: Lab_4-6_NET
+Метод: Void set_Answer(System.String)
+Трассировка стека:    at Lab_4_NET.Question.set_Answer(String value) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Question.cs:line 33
+   at Lab_4_NET.Question..ctor(String goal, String str1, String str2, Int32 number) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Question.cs:line 42
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 126
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Минимальное кол-во вопросов: 1
+Source: Lab_4-6_NET
+Метод: Void set_NumberOfQuestions(Int32)
+Трассировка стека:    at Lab_4_NET.Test.set_NumberOfQuestions(Int32 value) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Test.cs:line 19
+   at Lab_4_NET.Test..ctor(String goal, Int32 number) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Test.cs:line 27
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 135
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Attempted to divide by zero.
+Source: Lab_4-6_NET
+Метод: Void Main()
+Трассировка стека:    at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 148
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Index was outside the bounds of the array.
+Source: Lab_4-6_NET
+Метод: Void Main()
+Трассировка стека:    at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 161
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Unable to cast object of type 'System.String' to type 'System.Int32'.
+Source: System.Private.CoreLib
+Метод: Byte& Unbox(Void*, System.Object)
+Трассировка стека:    at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 171
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Input string was not in a correct format.
+Source: System.Private.CoreLib
+Метод: Void ThrowOverflowOrFormatException(ParsingStatus, System.TypeCode)
+Трассировка стека:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at Lab_4_NET.MainClass.<Main>g__Square|0_0(String data) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 196
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 192
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Input string was not in a correct format.
+Source: System.Private.CoreLib
+Метод: Void ThrowOverflowOrFormatException(ParsingStatus, System.TypeCode)
+Трассировка стека:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at Lab_4_NET.MainClass.<Main>g__Square|0_1(String data) in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 215
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 212
+|----------------------------------------------------|
+|----------------------------------------------------|
+Исключение: Attempted to divide by zero.
+Source: Lab_4-6_NET
+Метод: Void <Main>g__Method2|0_3()
+Трассировка стека:    at Lab_4_NET.MainClass.<Main>g__Method2|0_3() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 246
+   at Lab_4_NET.MainClass.<Main>g__Method1|0_2() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 232
+   at Lab_4_NET.MainClass.Main() in D:\BSTU\Kurs_2_1\OOP(C#)\Lab_4\Lab_4_NET\Lab_4_NET\Program.cs:line 257
+|----------------------------------------------------|
